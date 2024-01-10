@@ -1,0 +1,49 @@
+/* Your CSS styles here */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffd1dc; /* light pink */
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    color: #ff69b4; /* pink */
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: #ff69b4; /* pink */
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-right: 10px;
+  }
+  
+  button:hover {
+    background-color: #ff1493; /* lighter pink */
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #ff69b4; /* pink */
+  }
+  
+  .rabbit-gif {
+    width: 300px;
+    margin-top: 50px;
+  }
+  
+  .heart-gif {
+    width: 100px;
+    margin-top: 20px;
+  }
+  
